@@ -43,7 +43,7 @@ Console.OutputEncoding = Encoding.UTF8;
 
 ---
 <a name="ClassAndObject"></a>
-## :pushpin: **Lớp - Đối Tượng ([Class & Object]())** :sparkles: 
+## :pushpin: **Lớp - Đối Tượng ([Class & Object](https://github.com/BachMinhTuyen/Object-Oriented-Programming/tree/main/Chapter_Classes%20And%20Objects))** :sparkles: 
 
 :loudspeaker: **Describe (mô tả):**
 
@@ -51,9 +51,9 @@ Console.OutputEncoding = Encoding.UTF8;
 
 2. :triangular_flag_on_post: Tham số This - Nạp chồng phương thức - **Sắp có** ([Parameters 'This' - Overload Method - Coming Soon]()) :heavy_check_mark:
 
-3. :triangular_flag_on_post: Biến tĩnh - **Sắp có** ([Static Var - Coming Soon]()) :heavy_check_mark:
+3. :triangular_flag_on_post: Biến tĩnh ([Static Var](https://github.com/BachMinhTuyen/Object-Oriented-Programming/blob/main/Chapter_Classes%20And%20Objects/Static_Var.cs)) :heavy_check_mark:
 
-4. :triangular_flag_on_post: Tạo danh sách sinh viên - sử dụng Generic ([Create List Of Student Using Generic]()) :heavy_check_mark:
+4. :triangular_flag_on_post: Tạo danh sách sinh viên - sử dụng Generic ([Create List Of Student Using Generic](https://github.com/BachMinhTuyen/Object-Oriented-Programming/blob/main/Chapter_Classes%20And%20Objects/List_Of_Student_Using_Generic.cs)) :heavy_check_mark:
 
 | :file_folder: **Bài tập**  | (Exercise) :sparkles: |
 | ----------- | ----------- |
