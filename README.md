@@ -8,6 +8,10 @@
 
 :point_right: **Lớp - Đối Tượng** ([Class & Object](#ClassAndObject)):fire:
 
+:point_right: **Lớp Trừu Tượng** ([Abstract Class](#AbstractClass)):fire:
+
+:point_right: **Kế Thừa và Đa Hình** ([Inheritance & Polymorphism](#Inheritance-Polymorphism)):fire:
+
 ---
 :loudspeaker: **Tổng Quan - Overview**  :triangular_flag_on_post:
 
@@ -45,7 +49,7 @@ Console.OutputEncoding = Encoding.UTF8;
 <a name="ClassAndObject"></a>
 ## :pushpin: **Lớp - Đối Tượng ([Class & Object](https://github.com/BachMinhTuyen/Object-Oriented-Programming/tree/main/Chapter_Classes%20And%20Objects))** :sparkles: 
 
-:loudspeaker: **Describe (mô tả):**
+:loudspeaker: **Describe (mô tả):** (Coming Soon)
 
 1. :triangular_flag_on_post: Một số ví dụ về lớp - **Sắp có** ([Some Examples Of Classes - Coming Soon]()) :heavy_check_mark:
 
@@ -54,6 +58,40 @@ Console.OutputEncoding = Encoding.UTF8;
 3. :triangular_flag_on_post: Biến tĩnh ([Static Var](https://github.com/BachMinhTuyen/Object-Oriented-Programming/blob/main/Chapter_Classes%20And%20Objects/Static_Var.cs)) :heavy_check_mark:
 
 4. :triangular_flag_on_post: Tạo danh sách sinh viên - sử dụng Generic ([Create List Of Student Using Generic](https://github.com/BachMinhTuyen/Object-Oriented-Programming/blob/main/Chapter_Classes%20And%20Objects/List_Of_Student_Using_Generic.cs)) :heavy_check_mark:
+
+| :file_folder: **Bài tập**  | (Exercise) :sparkles: |
+| ----------- | ----------- |
+|Coming Soon|Coming Soon|
+---
+
+<a name="AbstractClass"></a>
+## :pushpin: **Lớp Trừu Tượng ([Abstract Class](https://github.com/BachMinhTuyen/Object-Oriented-Programming/tree/main/Chapter_Abstract_Class))** :sparkles: 
+
+:loudspeaker: **Describe (mô tả):** (Coming Soon)
+
+1. :triangular_flag_on_post: Lớp trừu tượng **về hình học** (tính chu vi, diện tích) ([Geometry Abstract Class (Calculate Perimeter, Area)](https://github.com/BachMinhTuyen/Object-Oriented-Programming/blob/main/Chapter_Abstract_Class/LopTruuTuong_HinhHoc.cs)) :heavy_check_mark:
+
+2. :triangular_flag_on_post: Lớp trừu tượng **về môn học** (tính điểm lý thuyết, thực hành, đồ án) ([Subject Abstract Class (Theory, Practice, Project)](https://github.com/BachMinhTuyen/Object-Oriented-Programming/blob/main/Chapter_Abstract_Class/LopTruuTuong_MonHoc.cs)) :heavy_check_mark:
+
+3. :triangular_flag_on_post: Lớp trừu tượng **về phòng trọ** ([Abstract Class About Apartment](https://github.com/BachMinhTuyen/Object-Oriented-Programming/blob/main/Chapter_Abstract_Class/LopTruuTuong_PhongTro.cs)) :heavy_check_mark:
+
+| :file_folder: **Bài tập**  | (Exercise) :sparkles: |
+| ----------- | ----------- |
+|Coming Soon|Coming Soon|
+---
+
+<a name="Inheritance-Polymorphism"></a>
+## :pushpin: **Kế Thừa và Đa Hình ([Inheritance & Polymorphism](https://github.com/BachMinhTuyen/Object-Oriented-Programming/tree/main/Chapter_Inheritance_Polymorphism))** :sparkles: 
+
+:loudspeaker: **Describe (mô tả):** (Coming Soon)
+
+1. :triangular_flag_on_post: Kế thừa | **Công ty bán cà phê** ([Inherit | Coffee trading company](https://github.com/BachMinhTuyen/Object-Oriented-Programming/blob/main/Chapter_Inheritance_Polymorphism/KeThua_CongTyBanCaPhe.cs)) :heavy_check_mark:
+
+2. :triangular_flag_on_post: Đa kế thừa - Interface | Ví dụ về **lớp động vật** ([Multi Inherit - Interface | Animal class example](https://github.com/BachMinhTuyen/Object-Oriented-Programming/blob/main/Chapter_Inheritance_Polymorphism/DaKeThua_Interface_Animal.cs)) :heavy_check_mark:
+
+3. :triangular_flag_on_post: Đa kế thừa - Interface | Ví dụ về **lớp chi tiết trao đổi hàng hoá** ([Multi Inherit - Interface | Commodity exchange detail class example](https://github.com/BachMinhTuyen/Object-Oriented-Programming/blob/main/Chapter_Inheritance_Polymorphism/DaKeThua_Interface_ChiTietTraoDoiSanPham.cs)) :heavy_check_mark:
+
+4. :triangular_flag_on_post: Đa kế thừa - Interface | Ví dụ về **lớp nhân viên**  ([Multi Inherit - Interface | Example of employee class](https://github.com/BachMinhTuyen/Object-Oriented-Programming/blob/main/Chapter_Inheritance_Polymorphism/DaKeThua_Interface_NhanVien.cs)) :heavy_check_mark:
 
 | :file_folder: **Bài tập**  | (Exercise) :sparkles: |
 | ----------- | ----------- |
