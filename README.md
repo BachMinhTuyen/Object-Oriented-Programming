@@ -61,7 +61,7 @@ Console.OutputEncoding = Encoding.UTF8;
 
 | :file_folder: **Bài tập**  | (Exercise) :sparkles: |
 | ----------- | ----------- |
-|Coming Soon|Coming Soon|
+|![Xây dựng lớp nhân viên](/Class_Object_Bai_2.png)|Coming Soon|
 ---
 
 <a name="AbstractClass"></a>
