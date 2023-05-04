@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DSThiSinh>
+	<ThiSinh>
+		<MaTS>001</MaTS>
+		<HoTen>Nguyễn Văn A</HoTen>
+		<GTinh>Nam</GTinh>
+		<DiemLyThuyet>9.5</DiemLyThuyet>
+		<DiemThucHanh>8.5</DiemThucHanh>
+	</ThiSinh>
+	<ThiSinh>
+		<MaTS>002</MaTS>
+		<HoTen>Nguyễn Văn B</HoTen>
+		<GTinh>Nam</GTinh>
+		<DiemLyThuyet>8.5</DiemLyThuyet>
+		<DiemThucHanh>6.5</DiemThucHanh>
+	</ThiSinh>
+	<ThiSinh>
+		<MaTS>003</MaTS>
+		<HoTen>Nguyễn Thị C</HoTen>
+		<GTinh>Nữ</GTinh>
+		<DiemLyThuyet>4</DiemLyThuyet>
+		<DiemThucHanh>5.5</DiemThucHanh>
+	</ThiSinh>
+	<ThiSinh>
+		<MaTS>004</MaTS>
+		<HoTen>Nguyễn Thị D</HoTen>
+		<GTinh>Nữ</GTinh>
+		<DiemLyThuyet>9</DiemLyThuyet>
+		<DiemThucHanh>8.5</DiemThucHanh>
+	</ThiSinh>
+	<ThiSinh>
+		<MaTS>005</MaTS>
+		<HoTen>Nguyễn Văn E</HoTen>
+		<GTinh>Nam</GTinh>
+		<DiemLyThuyet>4.5</DiemLyThuyet>
+		<DiemThucHanh>7.5</DiemThucHanh>
+	</ThiSinh>
+</DSThiSinh>
