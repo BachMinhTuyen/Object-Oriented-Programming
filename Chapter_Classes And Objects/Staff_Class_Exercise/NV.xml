@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DSNV>
+	<NV>
+		<MaSo>0001</MaSo>
+		<HoTen>Nguyễn A</HoTen>
+		<PhongBan>Quản trị</PhongBan>
+		<ChucVu>Lãnh đạo</ChucVu>
+		<HeSoLuong>7.2</HeSoLuong>
+		<ThamNien>1500</ThamNien>
+		<SoNgayLamViec>1530</SoNgayLamViec>
+	</NV>
+	<NV>
+		<MaSo>0002</MaSo>
+		<HoTen>Nguyễn B</HoTen>
+		<PhongBan>Chăm sóc khách hàng</PhongBan>
+		<ChucVu>Nhân viên</ChucVu>
+		<HeSoLuong>4.5</HeSoLuong>
+		<ThamNien>1000</ThamNien>
+		<SoNgayLamViec>8</SoNgayLamViec>
+	</NV>
+	<NV>
+		<MaSo>0003</MaSo>
+		<HoTen>Nguyễn C</HoTen>
+		<PhongBan>Kinh tế</PhongBan>
+		<ChucVu>Nhân viên</ChucVu>
+		<HeSoLuong>2.1</HeSoLuong>
+		<ThamNien>0</ThamNien>
+		<SoNgayLamViec>21</SoNgayLamViec>
+	</NV>
+	<NV>
+		<MaSo>0004</MaSo>
+		<HoTen>Nguyễn D</HoTen>
+		<PhongBan>Kinh Doanh</PhongBan>
+		<ChucVu>Lãnh đạo</ChucVu>
+		<HeSoLuong>6.4</HeSoLuong>
+		<ThamNien>1223</ThamNien>
+		<SoNgayLamViec>856</SoNgayLamViec>
+	</NV>
+	<NV>
+		<MaSo>0005</MaSo>
+		<HoTen>Nguyễn E</HoTen>
+		<PhongBan>Kinh tế</PhongBan>
+		<ChucVu>Nhân viên</ChucVu>
+		<HeSoLuong>5.8</HeSoLuong>
+		<ThamNien>0</ThamNien>
+		<SoNgayLamViec>20</SoNgayLamViec>
+	</NV>
+	<NV>
+		<MaSo>0006</MaSo>
+		<HoTen>Nguyễn F</HoTen>
+		<PhongBan>Tài Vụ</PhongBan>
+		<ChucVu>Nhân viên</ChucVu>
+		<HeSoLuong>6.3</HeSoLuong>
+		<ThamNien>0</ThamNien>
+		<SoNgayLamViec>62</SoNgayLamViec>
+	</NV>
+	<NV>
+		<MaSo>0007</MaSo>
+		<HoTen>Nguyễn G</HoTen>
+		<PhongBan>Tư Vấn</PhongBan>
+		<ChucVu>Nhân viên</ChucVu>
+		<HeSoLuong>4.2</HeSoLuong>
+		<ThamNien>0</ThamNien>
+		<SoNgayLamViec>21</SoNgayLamViec>
+	</NV>
+	<NV>
+		<MaSo>0008</MaSo>
+		<HoTen>Nguyễn H</HoTen>
+		<PhongBan>Tài vụ</PhongBan>
+		<ChucVu>Nhân viên</ChucVu>
+		<HeSoLuong>4.5</HeSoLuong>
+		<ThamNien>0</ThamNien>
+		<SoNgayLamViec>21</SoNgayLamViec>
+	</NV>
+	<NV>
+		<MaSo>0009</MaSo>
+		<HoTen>Nguyễn H</HoTen>
+		<PhongBan>Tư Vấn</PhongBan>
+		<ChucVu>Nhân viên</ChucVu>
+		<HeSoLuong>5.1</HeSoLuong>
+		<ThamNien>0</ThamNien>
+		<SoNgayLamViec>16</SoNgayLamViec>
+	</NV>
+	<NV>
+		<MaSo>0010</MaSo>
+		<HoTen>Nguyễn H</HoTen>
+		<PhongBan>Tài vụ</PhongBan>
+		<ChucVu>Nhân viên</ChucVu>
+		<HeSoLuong>3.7</HeSoLuong>
+		<ThamNien>0</ThamNien>
+		<SoNgayLamViec>9</SoNgayLamViec>
+	</NV>
+</DSNV>
