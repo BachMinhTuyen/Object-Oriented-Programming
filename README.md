@@ -43,6 +43,7 @@ namespace MyApp
 
 ```
 Console.OutputEncoding = Encoding.UTF8;
+Console.InputEncoding = Encoding.Unicode;
 ```
 
 ---
@@ -61,7 +62,8 @@ Console.OutputEncoding = Encoding.UTF8;
 
 | :file_folder: **Bài tập**  | (Exercise) :sparkles: |
 | ----------- | ----------- |
-|![Xây dựng lớp nhân viên](/Chapter_Classes%20And%20Objects/Image/Class_Object_Bai_2.png)|Coming Soon|
+|![Xây dựng lớp nhân viên](/Chapter_Classes%20And%20Objects/Image/Class_Object_Bai_2.png)|[NhanVien_Class_Exercise_Bai_2<br> **(Click here!)**](https://github.com/BachMinhTuyen/Object-Oriented-Programming/blob/main/Chapter_Classes%20And%20Objects/NhanVien_Class_Exercise_Bai_2.cs)|
+|![Xây dựng lớp nhân viên](/Chapter_Classes%20And%20Objects/Image/Class_Object_Bai_4.png)|[Xây dựng lớp nhân viên - Staff_Class_Exercise <br> **(Click here!)**](https://github.com/BachMinhTuyen/Object-Oriented-Programming/tree/main/Chapter_Classes%20And%20Objects/Staff_Class_Exercise)|
 ---
 
 <a name="AbstractClass"></a>
