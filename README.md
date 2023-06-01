@@ -97,5 +97,6 @@ Console.InputEncoding = Encoding.Unicode;
 
 | :file_folder: **Bài tập**  | (Exercise) :sparkles: |
 | ----------- | ----------- |
+|![Xây dựng lớp bất động sản](/Chapter_Inheritance_Polymorphism/Image/Bai1_BatDongSan_Image.png)|[RealEstate_Exercise_Bai_8<br> **(Click here!)**](https://github.com/BachMinhTuyen/Object-Oriented-Programming/tree/main/Chapter_Inheritance_Polymorphism/RealEstate_Exercise)|
 |Coming Soon|Coming Soon|
 ---
