@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<khosanpham>
+	<ten>Kho Số 1</ten>
+	<diachi>Thành Phố Hồ Chí Minh</diachi>
+	<SanPhams>
+		<SanPham>
+			<masp>SP0001</masp>
+			<tensp>xe BMW S1000RR</tensp>
+			<namsx>2021</namsx>
+			<gia>275</gia>
+			<loai>D</loai>
+		</SanPham>
+		<SanPham>
+			<masp>SP0002</masp>
+			<tensp>xe Ferrari F8 Spider</tensp>
+			<namsx>2019</namsx>
+			<gia>250000</gia>
+			<loai>C</loai>
+		</SanPham>
+		<SanPham>
+			<masp>SP0006</masp>
+			<tensp>Lamborghini Aventador SVJ</tensp>
+			<namsx>2018</namsx>
+			<gia>600000</gia>
+			<loai>B</loai>
+		</SanPham>
+		<SanPham>
+			<masp>SP0004</masp>
+			<tensp>xe McLaren Speedtail</tensp>
+			<namsx>2020</namsx>
+			<gia>2200000</gia>
+			<loai>A</loai>
+		</SanPham>
+		<SanPham>
+			<masp>SP0005</masp>
+			<tensp>xe Bugatti Chiron</tensp>
+			<namsx>2016</namsx>
+			<gia>3000000</gia>
+			<loai>A</loai>
+		</SanPham>
+		<SanPham>
+			<masp>SP0002</masp>
+			<tensp>xe Ferrari F8 Spider</tensp>
+			<namsx>2019</namsx>
+			<gia>250000</gia>
+			<loai>C</loai>
+		</SanPham>
+	</SanPhams>
+</khosanpham>
