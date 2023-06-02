@@ -64,6 +64,7 @@ Console.InputEncoding = Encoding.Unicode;
 | ----------- | ----------- |
 |![Xây dựng lớp nhân viên](/Chapter_Classes%20And%20Objects/Image/Class_Object_Bai_2.png)|[NhanVien_Class_Exercise_Bai_2<br> **(Click here!)**](https://github.com/BachMinhTuyen/Object-Oriented-Programming/blob/main/Chapter_Classes%20And%20Objects/NhanVien_Class_Exercise_Bai_2.cs)|
 |![Xây dựng lớp nhân viên](/Chapter_Classes%20And%20Objects/Image/Class_Object_Bai_4.png)|[Xây dựng lớp nhân viên - Staff_Class_Exercise <br> **(Click here!)**](https://github.com/BachMinhTuyen/Object-Oriented-Programming/tree/main/Chapter_Classes%20And%20Objects/Staff_Class_Exercise)|
+|![Xây dựng lớp kho sản phẩm]()|[Xây dựng lớp kho sản phẩm - Product_Warehouse_Exercise <br> **(Click here!)**](https://github.com/BachMinhTuyen/Object-Oriented-Programming/tree/main/Chapter_Classes%20And%20Objects/Product_Warehouse_Exercise)|
 ---
 
 <a name="AbstractClass"></a>
