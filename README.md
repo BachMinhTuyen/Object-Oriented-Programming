@@ -64,13 +64,17 @@ Console.InputEncoding = Encoding.Unicode;
 | ----------- | ----------- |
 |![Xây dựng lớp nhân viên](/Chapter_Classes%20And%20Objects/Image/Class_Object_Bai_2.png)|[NhanVien_Class_Exercise_Bai_2<br> **(Click here!)**](https://github.com/BachMinhTuyen/Object-Oriented-Programming/blob/main/Chapter_Classes%20And%20Objects/NhanVien_Class_Exercise_Bai_2.cs)|
 |![Xây dựng lớp nhân viên](/Chapter_Classes%20And%20Objects/Image/Class_Object_Bai_4.png)|[Xây dựng lớp nhân viên - Staff_Class_Exercise <br> **(Click here!)**](https://github.com/BachMinhTuyen/Object-Oriented-Programming/tree/main/Chapter_Classes%20And%20Objects/Staff_Class_Exercise)|
-|![Xây dựng lớp kho sản phẩm]()|[Xây dựng lớp kho sản phẩm - Product_Warehouse_Exercise <br> **(Click here!)**](https://github.com/BachMinhTuyen/Object-Oriented-Programming/tree/main/Chapter_Classes%20And%20Objects/Product_Warehouse_Exercise)|
+|![Xây dựng lớp kho sản phẩm](/Chapter_Classes%20And%20Objects/Image/KhoSanPham.png)|[Xây dựng lớp kho sản phẩm - Product_Warehouse_Exercise <br> **(Click here!)**](https://github.com/BachMinhTuyen/Object-Oriented-Programming/tree/main/Chapter_Classes%20And%20Objects/Product_Warehouse_Exercise)|
 ---
 
 <a name="AbstractClass"></a>
 ## :pushpin: **Lớp Trừu Tượng ([Abstract Class](https://github.com/BachMinhTuyen/Object-Oriented-Programming/tree/main/Chapter_Abstract_Class))** :sparkles: 
 
-:loudspeaker: **Describe (mô tả):** (Coming Soon)
+:loudspeaker: Symbol (ký hiệu): ***abstract***
+:loudspeaker: **Describe (mô tả):** 
+- Là một lớp mà ***không thể tạo ra các đối tượng (instances) trực tiếp*** từ lớp đó. 
+- Lớp trừu tượng thường được sử dụng để ***định nghĩa các phương thức*** mà các ***lớp con kế thừa phải triển khai*** (implement) theo cách riêng của chúng **(override)**.
+- Lớp trừu tượng tuy không thể được khởi tạo trực tiếp, nhưng nó có thể **được sử dụng** như một kiểu dữ liệu để khai báo tham số, biến hoặc kiểu trả về phương thức.
 
 1. :triangular_flag_on_post: Lớp trừu tượng **về hình học** (tính chu vi, diện tích) ([Geometry Abstract Class (Calculate Perimeter, Area)](https://github.com/BachMinhTuyen/Object-Oriented-Programming/blob/main/Chapter_Abstract_Class/LopTruuTuong_HinhHoc.cs)) :heavy_check_mark:
 
@@ -86,7 +90,15 @@ Console.InputEncoding = Encoding.Unicode;
 <a name="Inheritance-Polymorphism"></a>
 ## :pushpin: **Kế Thừa và Đa Hình ([Inheritance & Polymorphism](https://github.com/BachMinhTuyen/Object-Oriented-Programming/tree/main/Chapter_Inheritance_Polymorphism))** :sparkles: 
 
-:loudspeaker: **Describe (mô tả):** (Coming Soon)
+:loudspeaker: **Describe (mô tả):** 
+- **Kế thừa** là quá trình một lớp mới được tạo ra bằng cách **sử dụng lại** các *thuộc tính và phương thức từ một lớp đã tồn tại* gọi là lớp cha hoặc lớp cơ sở. 
+- Lớp con được **kế thừa** các thuộc tính và phương thức của lớp cha và ***có thể mở rộng, thay đổi hoặc thêm mới các thuộc tính và phương thức riêng.***
+- Kế thừa giúp tăng tính ***tái sử dụng mã nguồn, giảm thiểu việc lặp lại*** và *xây dựng các lớp có cấu trúc phân cấp.*
+---
+-  **Đa hình** là khả năng một đối tượng có thể **thể hiện** các ***hình dạng hoặc hành vi khác nhau*** dựa trên kiểu dữ liệu của nó hoặc lớp mà nó thuộc về. 
+-  Đa hình cho phép chúng ta **sử dụng một giao diện chung** để *thao tác* với ***các đối tượng khác nhau*** trong cùng một tập hợp lớp. **(virtual - override)**
+-  Nó cho phép chúng ta ***tối ưu hóa*** việc sử dụng mã nguồn và linh hoạt trong việc thay đổi hành vi của đối tượng tại **thời điểm chạy**.
+
 
 1. :triangular_flag_on_post: Kế thừa | **Công ty bán cà phê** ([Inherit | Coffee trading company](https://github.com/BachMinhTuyen/Object-Oriented-Programming/blob/main/Chapter_Inheritance_Polymorphism/KeThua_CongTyBanCaPhe.cs)) :heavy_check_mark:
 
@@ -100,4 +112,14 @@ Console.InputEncoding = Encoding.Unicode;
 | ----------- | ----------- |
 |![Xây dựng lớp bất động sản](/Chapter_Inheritance_Polymorphism/Image/Bai1_BatDongSan_Image.png)|[RealEstate_Exercise_Bai_8<br> **(Click here!)**](https://github.com/BachMinhTuyen/Object-Oriented-Programming/tree/main/Chapter_Inheritance_Polymorphism/RealEstate_Exercise)|
 |Coming Soon|Coming Soon|
+---
+
+<a name="Review"></a>
+## :pushpin: **Ôn Tập ([Review](https://github.com/BachMinhTuyen/Object-Oriented-Programming/tree/main/Review))** :sparkles: 
+
+:loudspeaker: **Describe (mô tả):** Ôn tập lại toàn bộ những kiến thức về lập trình hướng đối tượng bao gồm các ***biến tĩnh***, ***phương thức khởi tạo***, ***phương thức nạp chồng (overload)***, ***kế thừa, đa hình (virtual - override)*** và ***interface.***
+
+| :file_folder: **Ôn tập**  | (Review) :sparkles: |
+| ----------- | ----------- |
+|![Xây dựng quản lý thông tin sách](/Review/Image/Image_Book_Exercise.png)|[Book Information Management<br> **(Click here!)**](https://github.com/BachMinhTuyen/Object-Oriented-Programming/tree/main/Review/Book_Exercise)<hr>[Tải sơ đồ lớp - Diagram class download<br> **(Click here!)**](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/BachMinhTuyen/Object-Oriented-Programming/blob/main/Review/Book_Exercise/OnTap_Diagram.html)<br> *Tải xong -> vào thư mục lưu file vừa tải -> chuột phải vào file vừa tải chọn **"Extract Here"***|
 ---
