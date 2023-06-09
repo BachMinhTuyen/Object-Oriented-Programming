@@ -12,6 +12,8 @@
 
 :point_right: **Kế Thừa và Đa Hình** ([Inheritance & Polymorphism](#Inheritance-Polymorphism)):fire:
 
+:point_right: **Ôn tập** ([Review](#Review)):fire:
+
 ---
 :loudspeaker: **Tổng Quan - Overview**  :triangular_flag_on_post:
 
