@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Book_Exercise
+namespace LT_HDT_OnTapLan1
 {
-    public abstract class Sach
+    public class Sach
     {
         private string maSach;
         private string tenSach;
@@ -59,15 +59,15 @@ namespace Book_Exercise
         }
         public Sach(string maSach, string tenSach, string tacGia, int soTrang, double giaBan)
         {
-            this.maSach = maSach;
-            this.tenSach = tenSach;
-            this.tacGia = tacGia;
-            this.soTrang = soTrang;
-            this.giaBan = giaBan;
+            this.MaSach = maSach;
+            this.TenSach = tenSach;
+            this.TacGia = tacGia;
+            this.SoTrang = soTrang;
+            this.GiaBan = giaBan;
         }
         public void xuatThongTin()
         {
-            Console.WriteLine("{0,10}, {1,20}, {3, 20}, {4,10}, {5, 10}", maSach, tenSach, tacGia, soTrang, giaBan);
+            Console.WriteLine("\nMã: {0}\nTên: {1}\nTác giả: {2}\nSố Trang: {3}\nGiá: {4}", maSach, tenSach, tacGia, soTrang, giaBan);
         }
         public double thueSanXuat()
         {
@@ -77,7 +77,10 @@ namespace Book_Exercise
         {
             return giaBan * 0.2;
         }
-        public abstract double chiPhi();
+        public virtual double chiPhi()
+        {
+            return 0;
+        }
         public double loiNhuan()
         {
             return giaBan - chiPhi() - thueSanXuat() - tienNhuanButCuaTacGia();
