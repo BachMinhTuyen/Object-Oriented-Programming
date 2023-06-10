@@ -12,11 +12,11 @@ namespace LT_HDT_OnTapLan1
 
             #region Chạy lớp cha - lớp cơ sở (baseclass)
 
-            Console.WriteLine("\nLớp Cha:");
-            Sach a = new Sach();
-            a.xuatThongTin();
-            Console.WriteLine("Chi phí: {0}", a.chiPhi());
-            Console.WriteLine("Lợi nhuận: {0}", a.loiNhuan());
+            //Console.WriteLine("\nLớp Cha:");
+            //Sach a = new Sach();
+            //a.xuatThongTin();
+            //Console.WriteLine("Chi phí: {0}", a.chiPhi());
+            //Console.WriteLine("Lợi nhuận: {0}", a.loiNhuan());
 
             #endregion
 
@@ -29,6 +29,7 @@ namespace LT_HDT_OnTapLan1
             SachCaoCap b = new SachCaoCap("S002", "Lập trình web", "50", 20, 45000, 5000);
             b.xuatThongTin();
             Console.WriteLine("Chi phí: {0}", b.chiPhi());
+            Console.WriteLine("Kết quả lấy từ chi phí abstract: {0}", b.ketqua());
             Console.WriteLine("Lợi nhuận: {0}", b.loiNhuan());
 
             #endregion

@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace LT_HDT_OnTapLan1
 {
-    public class Sach
+    public abstract class Sach
     {
-        private string maSach;
-        private string tenSach;
-        private string tacGia;
-        private int soTrang;
-        private double giaBan;
+        protected string maSach;
+        protected string tenSach;
+        protected string tacGia;
+        protected int soTrang;
+        protected double giaBan;
         public string MaSach
         {
             get { return maSach; }
@@ -77,10 +77,7 @@ namespace LT_HDT_OnTapLan1
         {
             return giaBan * 0.2;
         }
-        public virtual double chiPhi()
-        {
-            return 0;
-        }
+        public abstract double chiPhi();
         public double loiNhuan()
         {
             return giaBan - chiPhi() - thueSanXuat() - tienNhuanButCuaTacGia();
