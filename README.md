@@ -124,4 +124,5 @@ Console.InputEncoding = Encoding.Unicode;
 | :file_folder: **Ôn tập**  | (Review) :sparkles: |
 | ----------- | ----------- |
 |![Xây dựng quản lý thông tin sách](/Review/Image/Image_Book_Exercise.png)|[Book Information Management<br> **(Click here!)**](https://github.com/BachMinhTuyen/Object-Oriented-Programming/tree/main/Review/Book_Exercise)<hr>[Tải sơ đồ lớp - Diagram class download<br> **(Click here!)**](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/BachMinhTuyen/Object-Oriented-Programming/blob/main/Review/Book_Exercise/OnTap_Diagram.html)<br> *Tải xong -> vào thư mục lưu file vừa tải -> chuột phải vào file vừa tải chọn **"Extract Here"***|
+|![Xây dựng hợp đồng ca sĩ (1)](/Review/Image/Singer_Contract_1.png)<br>![Xây dựng hợp đồng ca sĩ (2)](/Review/Image/Singer_Contract_2.png)|[Singer Contract<br> **(Click here!)**](https://github.com/BachMinhTuyen/Object-Oriented-Programming/tree/main/Review/Singer_Contract)<hr>[Tải sơ đồ lớp - Diagram class download<br> **(Coming soon)**]()<br> *Tải xong -> vào thư mục lưu file vừa tải -> chuột phải vào file vừa tải chọn **"Extract Here"***|
 ---
